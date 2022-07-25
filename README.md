@@ -89,4 +89,4 @@ sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com
 
 # Only valid for 90 days, test the renewal process with
 certbot renew --dry-run
-Now visit https://yourdomain.com and you should see your Node app
+Now visit https://yourdomain.com and you should see your Node app.
